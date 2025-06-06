@@ -12,7 +12,7 @@ const { DateTime } = require("luxon");
   // 以下の三行は自分で入力
   const username = "69226";
   const password = "69226HHjf";
-  const location = "さいたま市";
+  const location = "宮崎市";
 
   const targetUrl = "https://kenko:kenko-cac@ems4.kouku-dai.ac.jp/~take/kenko/";
 
